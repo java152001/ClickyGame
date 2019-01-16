@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu",
+        "image": "https://pokemonletsgo.pokemon.com/assets/img/common/char-pikachu.png"
+    },
+    {
+        "id": 2,
+        "name": "Squirtle",
+        "image": "https://vignette.wikia.nocookie.net/randompokemon/images/7/77/Squirtle_-_XY_anime.png/revision/latest?cb=20151121115753"
+    },
+    {
+        "id": 3,
+        "name": "Bulbasaur",
+        "image": "https://vignette.wikia.nocookie.net/pokemontowerdefense/images/2/21/001Bulbasaur.png/revision/latest?cb=20130530130719"
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "image": "http://static.pokemonpets.com/images/monsters-images-800-800/4-Charmander.png"
+    },
+    {
+        "id": 5,
+        "name": "Vulpix",
+        "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/8d/Vulpix.png/revision/latest/scale-to-width-down/480?cb=20141002081824&path-prefix=en"
+    },
+    {
+        "id": 6,
+        "name": "Psyduck",
+        "image": "https://vignette.wikia.nocookie.net/randompokemon/images/5/50/Psyduck_-_XY_anime.png/revision/latest?cb=20151107182019"
+    },
+    {
+        "id": 7,
+        "name": "Eevee",
+        "image": "https://pokemonletsgo.pokemon.com/assets/img/common/char-eevee.png"
+    },
+    {
+        "id": 8,
+        "name": "Dratini",
+        "image": "https://vignette.wikia.nocookie.net/nintendo/images/9/99/Dratini.png/revision/latest?cb=20160226131111&path-prefix=en"
+    },
+    {
+        "id": 9,
+        "name": "Abra",
+        "image": "https://vignette.wikia.nocookie.net/nintendo/images/f/f6/Abra.png/revision/latest/scale-to-width-down/480?cb=20141002080336&path-prefix=en"
+    },
+    {
+        "id": 10,
+        "name": "Sandshrew",
+        "image": "https://static.pokemonpets.com/images/monsters-images-300-300/27-Sandshrew.png"
+    },
+    {
+        "id": 11,
+        "name": "Geodude",
+        "image": "http://static.pokemonpets.com/images/monsters-images-800-800/2074-Shiny-Geodude.png"
+    },
+    {
+        "id": 12,
+        "name": "Diglett",
+        "image": "https://static.pokemonpets.com/images/monsters-images-300-300/50-Diglett.png"
+    },
+    {
+        "id": 13,
+        "name": "Magikarp",
+        "image": "http://static.pokemonpets.com/images/monsters-images-300-300/2129-Shiny-Magikarp.png"
+    },
+    {
+        "id": 14,
+        "name": "Staryu",
+        "image": "http://static.pokemonpets.com/images/monsters-images-300-300/120-Staryu.png"
+    },
+    {
+        "id": 15,
+        "name": "Oddish",
+        "image": "https://static.pokemonpets.com/images/monsters-images-300-300/43-Oddish.png"
+    },
+    {
+        "id": 16,
+        "name": "Chansey",
+        "image": "http://static.pokemonpets.com/images/monsters-images-300-300/113-Chansey.png"
+    }
+]
