@@ -1,3 +1,9 @@
+Enjoy my Pokemon memory game!  The goal here is to click every single unique pokemon, but the twist is that everytime you click, the DOM will re-render all of our images in a randomized pattern.  It will however remember which Pokemon you have clicked and is actively looking for you to repeat.
+
+Can you get the high score and remember all of em? No cheating!
+
+This project was created with React and utilizes state and DOM rendering to achieve it's effect, hope you like it!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
